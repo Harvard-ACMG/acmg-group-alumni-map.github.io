@@ -40,7 +40,7 @@ function showTopHeader() {
 				<li><a href="https://projects.iq.harvard.edu/acmg/acmg-presentations">PRESENTATIONS</a></li>\
 				<li><a href="https://projects.iq.harvard.edu/acmg/education">EDUCATION</a></li>\
 	            <li><a href="https://projects.iq.harvard.edu/acmg/acmg-people">PEOPLE</a></li>\
-	            <li><a href="http://acmg.seas.harvard.edu/geos/index.html">GEOS-Chem</a></li>\
+	            <li><a href="https://geos-chem.seas.harvard.edu/">GEOS-Chem</a></li>\
 				<li><a href="https://projects.iq.harvard.edu/acmg/contact-us">CONTACT US</a></li>\
         	 </ul>\
       	</div>\
